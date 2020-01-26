@@ -1,0 +1,11 @@
+{
+    "currentApp": "gracestore",
+    "defaultApp": "gracestore",
+    "apps": {
+        "gracestore": {
+            "name": "gracestore",
+            "trial": 0,
+            "prod": false
+        }
+    }
+}

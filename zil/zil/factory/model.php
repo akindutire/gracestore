@@ -11,8 +11,6 @@ namespace zil\factory;
     use \PDO;
 
 	trait Model{
-        
-
 
         protected $zdx_Take = 0;
 
